@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 嗨嗨 我是廢物新手 請多多指教
+## 目前會的語言 : C/C++/Java/Python/C#/Assembly
+## 做過 : 什麼都沒做過
+## 正在玩 : 日麻 原神 睡覺
