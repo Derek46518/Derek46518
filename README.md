@@ -1,5 +1,6 @@
 ### 沙小 我根本就不會寫程式 錯誤代碼#54088
-![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derek46518)
+![Derek's status](https://github-readme-stats.vercel.app/api?username=Derek46518&show_icons=true&theme=transparent)
+
 
 <!--
 **Derek46518/Derek46518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
