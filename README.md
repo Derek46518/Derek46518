@@ -12,4 +12,3 @@ C/C++/Java/Python/C#/Assembly/唬爛
 ### 正在玩 : 
 日麻 原神 睡覺
 
-<img src="{[BadgeURLHere](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)}" />
