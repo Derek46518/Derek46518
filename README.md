@@ -4,14 +4,6 @@
 ## 夜蘭我的 不准搶
 ![](https://media.tenor.com/EbfGJDH6-TAAAAAd/yelan-genshin-impact.gif)
 
-![](https://media.tenor.com/1CZya39HrvsAAAAC/genshin-impact-yelan.gif)
-![](https://media.tenor.com/PtFiq9Q8DWEAAAAd/genshin-impact-yelan.gif)
-<br>
-(我是被綁的) <br>
-
-<br>
-
-
 
 嗨嗨 我是廢物新手 請多多指教!! <br>
 對於成為程式設計師有憧憬
@@ -21,4 +13,6 @@ C/C++/Java/Python/C#/Assembly/唬爛
 什麼都沒做過，我就爛
 ### 正在玩 : 
 日麻 原神 睡覺
+### 正在學：
+JavaScript/TypeScript MongoDB 
 
