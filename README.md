@@ -5,7 +5,8 @@
 ![](https://media.tenor.com/EbfGJDH6-TAAAAAd/yelan-genshin-impact.gif)
 
 ### 你知道我是個邊緣人
-![](https://komarev.com/ghpvc/?Derek46518)
+
+![](https://komarev.com/ghpvc/?username=Derek46518)
 
 嗨嗨 我是廢物新手 請多多指教!! <br>
 對於成為程式設計師有憧憬
