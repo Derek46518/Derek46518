@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Derek46518  
 
-> I really don't know anything about coding, I'm a newbie
-> Passionate about sleeping, loves to sleep all day
+> I really don't know anything about coding, I'm a newbie.
+> Passionate about sleeping, loves to sleep all day.
 
 ![Derek's status](https://github-readme-stats-m6fi.vercel.app/api?username=Derek46518&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derek46518&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -29,7 +29,7 @@
 ---
 
 ## 📌 Projects & Experience
-- 🚧 Open-source contributor — released my first npm package and continue to maintain it  
+- 🚧 Open-source contributor — released my first npm package '@derek46518/nest-auth-kit' and continue to maintain it  
 - 📝 Full-stack projects: designed, built, and deployed with CI/CD pipelines  
 - 🛠️ Leadership: Former president of the CYCU Autocontrol Club  
 
